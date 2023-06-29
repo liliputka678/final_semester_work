@@ -1,7 +1,7 @@
 # Итоговая семестровая работа по дисциплине "Алгоритмизация и программирование" студентки группы Э-22-1 Перцевой О.В.
 
 ## Диаграммы
-## https://drive.google.com/drive/folders/1ilkQJHVKZ8NcNxPMMf-JB-x7qcP_JoD6?usp=sharing
+https://drive.google.com/drive/folders/1ilkQJHVKZ8NcNxPMMf-JB-x7qcP_JoD6?usp=sharing
 
 Диаграммы для Практичесой работы №5
 Диаграммы для Практичесой работы №6
@@ -13,14 +13,14 @@
 Диаграммы для Практичесой работы №12
 
 ## Таблицы
-## https://drive.google.com/drive/folders/1i6D6ws8lwituJeukJpQYePQ8mdPZTbSL?usp=sharing
+https://drive.google.com/drive/folders/1i6D6ws8lwituJeukJpQYePQ8mdPZTbSL?usp=sharing
 
 Практическая работа №3: Google таблицы
 Практическая работа №3: Excel
 Практическая работа №3: Расчёт общей стоимости
 
 ## Практические работы
-## https://drive.google.com/drive/folders/18ILHT-JoRNy3YdpQQxL0MzVN4FXA4jYH?usp=sharing
+https://drive.google.com/drive/folders/18ILHT-JoRNy3YdpQQxL0MzVN4FXA4jYH?usp=sharing
 
 Сборник задач
 Основные типы данных
@@ -35,6 +35,6 @@
 Решение финансовых задач с помощью генераторов на Python 3
 Создать макросы в Excel
 
-## Сейчас я продемонстрировала Вам свою работу в течение всего семестра.
-# Надеюсь Вы оцените мои старания. Здесь Вы сможете изучить мой сайт:
-# https://sites.google.com/view/ei-pov-e-22-1/
+# Сейчас я продемонстрировала Вам свою работу в течение всего семестра.
+## Надеюсь Вы оцените мои старания. Здесь Вы сможете изучить мой сайт:
+## https://sites.google.com/view/ei-pov-e-22-1/
